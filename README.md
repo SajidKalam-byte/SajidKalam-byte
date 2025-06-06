@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m @SajidKalam-byte<br>I’m interested in Data Science, Machine Learning, and Full Stack Development<br>I’m currently learning Advanced Machine Learning techniques and AI integration into backend systems<br>I’m looking to collaborate on AI-powered projects, web development using Python and Flask, and data-driven solutions<br>How to reach me https://www.linkedin.com/in/sajid-kalam/<br>Pronouns: He/Him<br>Fun fact: I love solving puzzles and learning new tech tools in my spare time!
+Hi, I’m @SajidKalam-byte<br>I’m interested in Data Science, Machine Learning, and Full Stack Development<br>I’m currently learning Advanced Machine Learning techniques and AI integration into backend systems<br>I’m looking to collaborate on AI-powered projects, web development using Python and Flask, and data-driven solutions<br>How to reach me:<br>https://www.linkedin.com/in/sajid-kalam/<br>https://sajidkalam-byte.github.io/portfolio/<br>Pronouns: He/Him<br>Fun fact: I love solving puzzles and learning new tech tools in my spare time!
 
 
 ## 🌐 Socials:
